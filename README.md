@@ -2,8 +2,5 @@
 
 ## Intro
 
-I'm a development student, focusing on JavaScript, using
-
-- Node.js
-
+I'm a development student, focusing on .NET
 Study on the Map of Programming course.
